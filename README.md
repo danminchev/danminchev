@@ -15,17 +15,13 @@ Right now, I’m focused on **AI integrations for developers**—working with **
 ---
 
 ## 📚 Training & Courses (SoftUni / SoftUni AI)
-- **AI Integrations for Developers** (Feb 2026 – Apr 2026)  
-  Topics: LLM API Integration, Vector Databases + Embeddings + RAG, Images/Speech/Audio/Video, Fine-Tuning, Workshops (Real-life Project, Local AI)
-- **Software Technologies with AI** (Jan 2026 – Mar 2026)
-- **AI Privacy, Security and Regulations** (Nov 2025 – Dec 2025) — **Excellent**  
-  Results: Practice 100, Theory 90, Total 100
-- **AI Automation** (Sep 2025 – Nov 2025) — **Excellent (6)**  
-  Results: Practice 100, Theory 100, Total 100
-- **Vibe Coding Basics** (Sep 2025)
-- **Implementing AI in Business** (Aug 2025 – Oct 2025) — **Excellent**  
-  Results: Practice 100, Theory 93.33, Total 100
-- **AI Basics** (Jun 2025)
+- **AI Integrations for Developers**
+- **Software Technologies with AI** 
+- **AI Privacy, Security and Regulations**
+- **AI Automation** 
+- **Vibe Coding Basics**
+- **Implementing AI in Business**
+- **AI Basics** 
 
 ---
 
