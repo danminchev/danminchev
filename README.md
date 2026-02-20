@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Daniel Minchev 👋
 
-<!--
-**danminchev/danminchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My journey in Information Technology started in **QA**, where I built a strong foundation in both **manual** and **automation testing**, and later naturally expanded into **AI** and **smart automation**. I’m passionate about combining a quality-first mindset with modern AI capabilities to build more reliable software and more efficient workflows.
 
-Here are some ideas to get you started:
+Right now, I’m focused on **AI integrations for developers**—working with **LLM APIs**, **embeddings**, **vector databases**, and **RAG**, along with building practical **automations** using APIs, webhooks, and AI-powered workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Focus Areas
+- **QA & Quality Mindset:** test design, defect reporting, traceability, and continuous improvement
+- **AI:** LLM API integrations, embeddings, vector databases, RAG, fundamentals of fine-tuning
+- **Automation:** workflows, webhooks, REST APIs, JSON data handling, AI-assisted processes
+- **Real-world applications:** practical solutions over demos—things that work end-to-end
+
+---
+
+## 📚 Training & Courses (SoftUni / SoftUni AI)
+- **AI Integrations for Developers** (Feb 2026 – Apr 2026)  
+  Topics: LLM API Integration, Vector Databases + Embeddings + RAG, Images/Speech/Audio/Video, Fine-Tuning, Workshops (Real-life Project, Local AI)
+- **Software Technologies with AI** (Jan 2026 – Mar 2026)
+- **AI Privacy, Security and Regulations** (Nov 2025 – Dec 2025) — **Excellent**  
+  Results: Practice 100, Theory 90, Total 100
+- **AI Automation** (Sep 2025 – Nov 2025) — **Excellent (6)**  
+  Results: Practice 100, Theory 100, Total 100
+- **Vibe Coding Basics** (Sep 2025)
+- **Implementing AI in Business** (Aug 2025 – Oct 2025) — **Excellent**  
+  Results: Practice 100, Theory 93.33, Total 100
+- **AI Basics** (Jun 2025)
+
+---
+
+## 🧰 Tech & Tools (snapshot)
+> I keep this list aligned with what I actively use and practice.
+
+- **QA:** Manual Testing, Test Scenarios, Bug Reporting, Test Design (fundamentals)
+- **Automation (direction):** UI / API automation (depending on the stack)
+- **AI:** LLMs, Prompt Engineering, LLM API Integrations, RAG (Embeddings, Vector DB)
+- **Automation & Integrations:** REST APIs, Webhooks, JSON, workflow automation (e.g., n8n)
+- **Web (current projects):** HTML, CSS, JavaScript, Bootstrap, Vite
+- **Backend services:** Supabase (Auth / Database / Storage as needed)
+
+---
+
+## 🧩 Projects
+I’m currently organizing and polishing my repositories. Coming soon:
+- An **AI integration** project (LLM API + RAG)
+- An **automation workflow** project (webhooks + APIs + AI)
+- A **QA/automation** demo (test plan / test suite / example project)
+
+> If you share 2–3 repo links you want to highlight, I can turn this section into a strong “Featured Projects” list with short, professional descriptions.
+
+---
+
+## 📫 Contact
+- Email: **danielminchevv@gmail.com**
+
+---
+
+## ✅ Currently
+- Learning and building with: **AI integrations, RAG, and workflow automation**
+- Goal: deliver real value through practical projects and strong engineering fundamentals
