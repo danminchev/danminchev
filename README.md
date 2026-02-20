@@ -22,6 +22,13 @@ Right now, I’m focused on **AI integrations for developers**—working with **
 - **Vibe Coding Basics**
 - **Implementing AI in Business**
 - **AI Basics** 
+### QA & Software Development Foundations
+- **QA Fundamentals and Manual Testing**
+- **Programming Fundamentals and Unit Testing**
+- **Programming Advanced for QA**
+- **Back-End Technologies Basics**
+- **Back-End Test Automation**
+- **Software Technologies**
 
 ---
 
