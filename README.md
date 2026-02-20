@@ -34,7 +34,6 @@ Right now, I’m focused on **AI integrations for developers**—working with **
 ---
 
 ## 🧰 Tech & Tools (snapshot)
-> I keep this list aligned with what I actively use and practice.
 
 - **QA:** Manual Testing, Test Scenarios, Bug Reporting, Test Design (fundamentals)
 - **Automation (direction):** UI / API automation (depending on the stack)
@@ -51,7 +50,6 @@ I’m currently organizing and polishing my repositories. Coming soon:
 - An **automation workflow** project (webhooks + APIs + AI)
 - A **QA/automation** demo (test plan / test suite / example project)
 
-> If you share 2–3 repo links you want to highlight, I can turn this section into a strong “Featured Projects” list with short, professional descriptions.
 
 ---
 
